@@ -23,12 +23,12 @@
 ***
 下面是你可以再选择的第三方固件：（以下几个固件在仓库有备份）
 
-【推荐】改华硕老毛子Padavan固件：http://www.right.com.cn/forum/thread-161324-1-1.html
+**【推荐】改华硕老毛子Padavan固件**：http://www.right.com.cn/forum/thread-161324-1-1.html
 
 【不推荐】openwrt固件：https://archive.openwrt.org/snapshots/trunk/ramips/mt7620/ 上面链接页面查找1208/1218下载固件备用。  
 刷openwrt教程：https://zhuanlan.zhihu.com/p/28430178
 
-【不用ss的话推荐】高格固件：http://www.gocloud.cn/bbs/forum.php?mod=viewthread&tid=543&extra=page%3D1    
+**【不用ss的话推荐】高恪固件**：http://www.gocloud.cn/bbs/forum.php?mod=viewthread&tid=543&extra=page%3D1    
 k2刷高恪固件只能先进入breed，再从breed刷到高恪。  
 如果本身就自带breed了，可以在刷机工具里选择机型K2，然后选择 从“breed”升级至“高恪（工具自带版本）”  
 如果没有breed，工具提供了带r1016版本breed的k2 163 v1.7版本，可以从K2 ，官改刷到这个版本，然后再进breed刷到高恪（也可以自己从网上刷入k2的breed）
